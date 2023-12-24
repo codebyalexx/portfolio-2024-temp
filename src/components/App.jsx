@@ -37,7 +37,7 @@ export default class App extends Component {
                         </header>
                         <ul className={'flex mb-12 lg:pb-16 lg:mb-16'}>
                             <li className={'mr-3'}>
-                                <a href="https://github.com/alexandrelg2022" target={'_blank'} rel="noreferrer">
+                                <a href="https://github.com/codebyalexx" target={'_blank'} rel="noreferrer">
                                     <AiFillGithub size={30} className={'text-slate-400 transition-all delay-50 hover:text-slate-200'} />
                                 </a>
                             </li>
@@ -111,7 +111,7 @@ export default class App extends Component {
                                         </div>
                                     </div>
                                 </a>
-                                <a href="https://alexandrelg2022.github.io/Reservia/" className={'block group relative transition-all group-hover/list:opacity-50 hover:!opacity-100 mb-8'} target={'_blank'} rel={'noreferrer'}>
+                                <a href="https://codebyalexx.github.io/Reservia/" className={'block group relative transition-all group-hover/list:opacity-50 hover:!opacity-100 mb-8'} target={'_blank'} rel={'noreferrer'}>
                                     <div className={'absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block group-hover:bg-slate-800/50 group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] group-hover:drop-shadow-lg'}></div>
                                     <div className={'grid grid-cols-8 gap-2'}>
                                         <div className={'col-span-2 z-10 pt-1.5'}>
@@ -130,7 +130,7 @@ export default class App extends Component {
                                         </div>
                                     </div>
                                 </a>
-                                <a href="https://alexandrelg2022.github.io/FishEye/" className={'block group relative transition-all group-hover/list:opacity-50 hover:!opacity-100 mb-8'} target={'_blank'} rel={'noreferrer'}>
+                                <a href="https://codebyalexx.github.io/FishEye/" className={'block group relative transition-all group-hover/list:opacity-50 hover:!opacity-100 mb-8'} target={'_blank'} rel={'noreferrer'}>
                                     <div className={'absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block group-hover:bg-slate-800/50 group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] group-hover:drop-shadow-lg'}></div>
                                     <div className={'grid grid-cols-8 gap-2'}>
                                         <div className={'col-span-2 z-10 pt-1.5'}>
