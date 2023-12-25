@@ -65,6 +65,31 @@ export default class App extends Component {
                         <section className={'mb-32'} id={'experience'}>
                             <h2 className={'lg:hidden mb-5 text-slate-200 text-lg font-semibold'}>Experience</h2>
                             <div className="group/list">
+                                <a href="https://arka-group.io" className={'block group relative transition-all group-hover/list:opacity-50 hover:!opacity-100 mb-8'} target={'_blank'} rel={'noreferrer'}>
+                                    <div className={'absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block group-hover:bg-slate-800/50 group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] group-hover:drop-shadow-lg'}></div>
+                                    <div className={'grid grid-cols-6 gap-2'}>
+                                        <div className={'col-span-1 z-10'}>
+                                            <p className={'pt-1 text-slate-500 uppercase text-xs font-bold'}>2023 - NOW</p>
+                                        </div>
+                                        <div className={'col-span-5 z-10'}>
+                                            <h3 className={'flex text-base font-semibold text-slate-200 group-hover:text-teal-300 mb-1'}>Fullstack Engineer • Arka Agency <MdOutlineArrowOutward  className={'ml-1 text-sm font-bold transition-all group-hover:text-lg'} /></h3>
+                                            <p className={'text-sm text-slate-400 mb-3'}>
+                                                My mission at Arka Agency is to provide faultless full stack JS applications for our clients. From integration to sys administration.
+                                            </p>
+                                            <ul className={''}>
+                                                <li className={'rounded-full px-3 py-1 text-xs text-teal-300 bg-teal-400/10 font-medium mr-1.5 mb-2 inline-block'}>React.js</li>
+                                                <li className={'rounded-full px-3 py-1 text-xs text-teal-300 bg-teal-400/10 font-medium mr-1.5 mb-2 inline-block'}>TailwindCSS</li>
+                                                <li className={'rounded-full px-3 py-1 text-xs text-teal-300 bg-teal-400/10 font-medium mr-1.5 mb-2 inline-block'}>Redux.js</li>
+                                                <li className={'rounded-full px-3 py-1 text-xs text-teal-300 bg-teal-400/10 font-medium mr-1.5 mb-2 inline-block'}>Express.js • API • Sockets</li>
+                                                <li className={'rounded-full px-3 py-1 text-xs text-teal-300 bg-teal-400/10 font-medium mr-1.5 mb-2 inline-block'}>Sys Admin</li>
+                                                <li className={'rounded-full px-3 py-1 text-xs text-teal-300 bg-teal-400/10 font-medium mr-1.5 mb-2 inline-block'}>MySQL</li>
+                                                <li className={'rounded-full px-3 py-1 text-xs text-teal-300 bg-teal-400/10 font-medium mr-1.5 mb-2 inline-block'}>Project Management</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="group/list">
                                 <a href="https://unosial.com" className={'block group relative transition-all group-hover/list:opacity-50 hover:!opacity-100 mb-8'} target={'_blank'} rel={'noreferrer'}>
                                     <div className={'absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block group-hover:bg-slate-800/50 group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] group-hover:drop-shadow-lg'}></div>
                                     <div className={'grid grid-cols-6 gap-2'}>
